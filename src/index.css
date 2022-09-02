@@ -1,0 +1,22 @@
+a{
+  text-decoration: none;
+  cursor: pointer;
+  color: inherit !important;
+}
+.suc{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.suc-btn{
+  padding: 20px 150px;
+  border: 0;
+  border-radius: 5px;
+  background-color: rgb(34, 206, 106);
+  color: #fff;
+  font-size: 24px;
+  cursor: pointer;
+}
